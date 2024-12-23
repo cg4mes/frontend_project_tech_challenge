@@ -1,6 +1,6 @@
 # Framework to Automate E2E Tests #
 This project was developed using the next technologies:
-* Python 3.8
+* Python 3.12
 * Selenium
 * Behave
 * PyHamcrest
@@ -29,7 +29,7 @@ Upgrading your `pip` by running:
 
 To execute this project, you must first install the requirements file with the next command:
 
-`python3 -m pip install requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 Then of install all requirements you can execute the automated tests with the next command:
 
