@@ -1,0 +1,16 @@
+
+¬python:S1192Î"Define a constant instead of duplicating this literal "find_element_by_* commands are deprecated. Please use find_element() instead" 8 times.(½­ÿáøÿÿÿÿ
+›python:S1192ß
+"Define a constant instead of duplicating this literal "Only 'current' window is supported for W3C compatibile browsers." 4 times.(ûºùé
+©python:S1192å"Define a constant instead of duplicating this literal "find_elements_by_* commands are deprecated. Please use find_elements() instead" 8 times.(î¯×µ
+rpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(˜€³ıÿÿÿÿ
+rpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ğ–öòùÿÿÿÿ
+Zpython:S5655Ò"AChange this argument; Function "execute" expects a different type(äº‡¥
+wpython:S5886¹"^Return a value of type "dict" instead of "NoneType" or update function "get_cookie" type hint.(ò¤Ÿù
+upython:S117Ñ
+"XRename this parameter "windowHandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ù››şÿÿÿÿ
+opython:S117â
+"XRename this parameter "windowHandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Èî
+upython:S117õ
+"XRename this parameter "windowHandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô‡éŞûÿÿÿÿ
+ppython:S117†"XRename this parameter "windowHandle" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¨œ
